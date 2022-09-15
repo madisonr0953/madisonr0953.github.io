@@ -35,17 +35,17 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #d6cfcb; /* cream */
     color: #555555;
 }
 
 .bg-2 {
-    background-color: #E5F6DF; /* lightgreen */
+    background-color: #706677; /* light purple */
     color: #ffffff;
 }
 
 .card {
-    color: black;
+    color: Black;
     text-align: left;
 }
 
@@ -54,7 +54,7 @@ a {
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
+    background-color: #565264; /* dark purple */
     color: #ffffff;
 }
 
